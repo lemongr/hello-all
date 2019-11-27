@@ -1,2 +1,2 @@
 # hello-all
-Trying this out
+0 experience, just learned Python and I'm trying this out
